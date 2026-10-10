@@ -4,7 +4,8 @@ A Slack-style chat app built around **WebSockets**: channels, direct messages, l
 
 | | |
 |---|---|
-| Live demo | _added after deploy_ |
+| Live demo | https://pulse-chat-app-sigma.vercel.app (sign in with the alice / bob / carol buttons; the free API host may take ~30 s to wake up) |
+| API docs (Swagger) | https://pulse-api-siln.onrender.com/docs |
 
 ![Chat](docs/screenshots/chat.jpg)
 
